@@ -8,6 +8,16 @@ The site is live at http://delphi.midas.cs.cmu.edu/misc/fluscores/
 
 # Legacy Changelog
 ````
+=== v6: 2019-10-14 ===
+  + Support 2017-2018, 2018-2019 national/regional scores
+  + Support states & hospitalization scores
+  + Delphi logo and revision information
+  by Jingjing Tang
+  
+=== v5: 2017-07-22 ===
+  + Sidebar added for legend and scaling
+  by Tanay Vakharia
+
 === v4: 2016-11-04 ===
   * backport of v3 changes from javascript to coffeescript
 
