@@ -1,0 +1,12 @@
+{
+    "name": "www-fluscores",
+    "private": true,
+    "dependencies": {},
+    "devDependencies": {
+        "delphi-cmu-buildtools": "github:sgratzl/delphi-cmu-buildtools"
+    },
+    "scripts": {
+        "build": "node build.js",
+        "image": "docker build -t www-fluscores:latest --file ./devops/Dockerfile ."
+    }
+}
